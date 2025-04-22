@@ -8,4 +8,5 @@
 # Create Public and Private Route tables
 ![image](https://github.com/user-attachments/assets/ec0ebfd2-2651-4e3b-b429-c20ca9402994)
 ![image](https://github.com/user-attachments/assets/929e4faa-1678-4c3a-a9b5-7c1a9662d941)
-
+# Resources map
+![image](https://github.com/user-attachments/assets/65abd6b2-f73b-4a02-a9d9-23aea371a211)
